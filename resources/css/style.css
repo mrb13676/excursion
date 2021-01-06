@@ -1,4 +1,10 @@
 body, footer, head {
     background-color: black;
     text-align: center;
+    font-family: Verdana;
+}
+
+.calltoAction {
+    color: aquamarine;
+    font-size: 16px;
 }
